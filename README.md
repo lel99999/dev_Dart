@@ -11,3 +11,10 @@ Dart Workspace and Development
 
 #### Dart Code Playground - Dartpad
 - [DartPad](https://dart.dev/tools/dartpad) <br/>
+
+#### Get/Install Dart
+- Mac vi a homebrew</br>
+```
+$brew tap dart-lang/dart
+$brew install dart
+```
